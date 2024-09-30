@@ -1,2 +1,4 @@
-package src.java;public class client {
+package src.java;
+
+public class client {
 }
